@@ -1,3 +1,6 @@
+This is a fork of the orignal DESteer library written by Ben Van Treese, I just forked it so I could mess around with it, 
+and try and understand it better.
+
 DESteer is meant to be an easy to use steering library that you can tie into almost any game engine with little time.
 
 The main goal as to keep the code and API as clean as possible.
